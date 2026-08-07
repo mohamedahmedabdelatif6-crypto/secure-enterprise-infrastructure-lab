@@ -53,3 +53,19 @@
 - CPU Cores: 4
 - Vendor: Intel
 - Virtualization: VMware
+
+
+## Security Configuration
+
+- Firewall: firewalld enabled
+- SELinux: Enforcing
+- Administrative user: ahmed
+- Sudo access: Configured through wheel group
+
+## Installed Tools
+
+- Git
+- Vim
+- Bash
+- NetworkManager
+- OpenSSH
